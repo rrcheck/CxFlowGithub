@@ -9,7 +9,7 @@ Some of its features and characteristics:
 * Easy to install - just requires java and a servlet engine, e.g. Tomcat
 * Self contained (no additional dependencies other than to 2 in the above line)
 * Easy to change on the fly - all the functionality is implemented in JSPs, so no IDE required
-* Cross platform
+* Cross platform CxFlowtest
 * Open source
 * No separate db to install and configure - it uses an 'in memory' db that is automatically (re)initialized on start up
 
