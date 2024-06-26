@@ -4,7 +4,7 @@ Test1
 > #### You are strongly recommended to use [OWASP Juice Shop](https://www.owasp.org/index.php/OWASP_Juice_Shop_Project) instead!
 
 Note that the BodgeIt Store is now available as a Docker image: https://hub.docker.com/r/psiinon/bodgeit/
-CxFlowMasterPush-Test2345678901234567890123456789012345678901234567890123456789123
+CxFlowMasterPush-Test2345678901234567890123456789012345678901234567890123456789123456789
 Some of its features and characteristics:
 * Easy to install - just requires java and a servlet engine, e.g. Tomcat
 * Self contained (no additional dependencies other than to 2 in the above line)
