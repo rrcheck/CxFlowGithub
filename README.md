@@ -11,6 +11,8 @@ added
 stuuuuuuuuff
 Ray's line
 spitting hot fire
+splotting and plotting and making it nice
+again
 Some of its features and characteristics:
 * Easy to install - just requires java and a servlet engine, e.g. Tomcat
 * Self contained (no additional dependencies other than to 2 in the above line)
