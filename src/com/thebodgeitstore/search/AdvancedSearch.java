@@ -1,7 +1,7 @@
 package com.thebodgeitstore.search;
 
-//Author: Doug Logan
-//Website: https://www.CyberNinjas.com
+//Author: Doug Logan and also his butt
+//Website: https://www.CyberNinjas.com and your butt
 
 
 import com.thebodgeitstore.util.AES;
